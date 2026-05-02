@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 ## ⚠️ Disclaimer
 
 This repository is for personal use and wallpaper collection purposes.  
-All wallpapers belong to their respective creators. No ownership is claimed over any images.
+All wallpapers belong to their respective creators.
 
 ## 🙌 Credits
 
