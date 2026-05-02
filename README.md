@@ -131,3 +131,10 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ## 🧾 License
 This project is licensed under the MIT License.
+
+## ⚠️ Disclaimer
+
+This repository is for personal use and wallpaper collection purposes.  
+All wallpapers belong to their respective creators. No ownership is claimed over any images.
+
+## 🙌 Credits
