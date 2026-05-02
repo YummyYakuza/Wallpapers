@@ -138,3 +138,5 @@ This repository is for personal use and wallpaper collection purposes.
 All wallpapers belong to their respective creators. No ownership is claimed over any images.
 
 ## 🙌 Credits
+
+https://github.com/orangci/walls-catppuccin-mocha
