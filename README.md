@@ -4,7 +4,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## 🌌 Catppuccin
+##  Catppuccin
 
 <p float="left">
   <img src="Catppuccin/CP01.JPG" width="300"/>
@@ -22,7 +22,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## 🔥 Crimson
+##  Crimson
 
 <p float="left">
   <img src="Crimson/C01.JPG" width="300"/>
@@ -35,7 +35,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## 🌑 Dark
+##  Dark
 
 <p float="left">
   <img src="Dark/D01.JPG" width="300"/>
@@ -47,7 +47,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## ⚡ Power
+##  Power
 
 <p float="left">
   <img src="Power/P01.JPG" width="300"/>
@@ -60,7 +60,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## 🌃 Tokyo Night
+##  Tokyo Night
 
 <p float="left">
   <img src="Tokyo Night/TN01.JPG" width="300"/>
@@ -75,7 +75,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ---
 
-## 🌈 Wallpapers Collection (W Series)
+##  Wallpapers Collection (W Series)
 
 <p align="center">
 
