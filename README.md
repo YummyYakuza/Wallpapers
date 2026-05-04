@@ -6,7 +6,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ##  Catppuccin
 
-<p float="left">
+<p float="center">
   <img src="Catppuccin/CP01.JPG" width="300"/>
   <img src="Catppuccin/CP02.JPG" width="300"/>
   <img src="Catppuccin/CP03.JPG" width="300"/>
@@ -24,7 +24,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ##  Crimson
 
-<p float="left">
+<p float="center">
   <img src="Crimson/C01.JPG" width="300"/>
   <img src="Crimson/C02.JPG" width="300"/>
   <img src="Crimson/C03.JPG" width="300"/>
@@ -37,7 +37,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ##  Dark
 
-<p float="left">
+<p float="center">
   <img src="Dark/D01.JPG" width="300"/>
   <img src="Dark/D02.JPG" width="300"/>
   <img src="Dark/D03.JPG" width="300"/>
@@ -49,7 +49,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ##  Power
 
-<p float="left">
+<p float="center">
   <img src="Power/P01.JPG" width="300"/>
   <img src="Power/P02.JPG" width="300"/>
   <img src="Power/P03.JPG" width="300"/>
@@ -62,7 +62,7 @@ A curated collection of aesthetic wallpapers organized by theme.
 
 ##  Tokyo Night
 
-<p float="left">
+<p float="center">
   <img src="Tokyo Night/TN01.JPG" width="300"/>
   <img src="Tokyo Night/TN02.JPG" width="300"/>
   <img src="Tokyo Night/TN03.JPG" width="300"/>
